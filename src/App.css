@@ -2,7 +2,7 @@
   background-color: #f3f2ef;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: flex;
 }
 .app__body {
   display: flex;
