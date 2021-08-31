@@ -31,7 +31,6 @@ function App() {
   }, []);
   return (
     <div className="app">
-      <h1> LinkedIn Clone</h1>
       {/* Header */}
       <Header />
 
